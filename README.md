@@ -1,4 +1,5 @@
-# ML Study & Performance Tracker
+#DAY 01
+ # ML Study & Performance Tracker
 
 A beginner-friendly Python project that tracks weekly study hours, analyses test performance, and provides a personalized learning recommendation.
 
